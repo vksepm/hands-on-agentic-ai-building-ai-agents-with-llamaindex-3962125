@@ -1,0 +1,62 @@
+[
+ {
+   "Name": "Dr. John Smith",
+   "Speciality": "Cardiologist",
+   "Years of Experience": 15,
+   "Contact Email": "kpmu71@gmail.com"
+ },
+ {
+   "Name": "Dr. Emily Johnson",
+   "Speciality": "Dermatologist",
+   "Years of Experience": 8,
+   "Contact Email": "kumaranpm@hotmail.com"
+ },
+ {
+   "Name": "Dr. Michael Brown",
+   "Speciality": "Neurologist",
+   "Years of Experience": 12,
+   "Contact Email": "kpmu71@gmail.com"
+ },
+ {
+   "Name": "Dr. Sarah Davis",
+   "Speciality": "Pediatrician",
+   "Years of Experience": 10,
+   "Contact Email": "kumaranpm@hotmail.com"
+ },
+ {
+   "Name": "Dr. Robert Wilson",
+   "Speciality": "Orthopedic Surgeon",
+   "Years of Experience": 20,
+   "Contact Email": "kpmu71@gmail.com"
+ },
+ {
+   "Name": "Dr. Jennifer Lee",
+   "Speciality": "Endocrinologist",
+   "Years of Experience": 9,
+   "Contact Email": "kumaranpm@hotmail.com"
+ },
+ {
+   "Name": "Dr. David Martinez",
+   "Speciality": "Oncologist",
+   "Years of Experience": 18,
+   "Contact Email": "kpmu71@gmail.com"
+ },
+ {
+   "Name": "Dr. Jessica Taylor",
+   "Speciality": "Psychiatrist",
+   "Years of Experience": 11,
+   "Contact Email": "kumaranpm@hotmail.com"
+ },
+ {
+   "Name": "Dr. William Anderson",
+   "Speciality": "Pulmonologist",
+   "Years of Experience": 13,
+   "Contact Email": "kpmu71@gmail.com"
+ },
+ {
+   "Name": "Dr. Karen Thomas",
+   "Speciality": "Gastroenterologist",
+   "Years of Experience": 7,
+   "Contact Email": "kumaranpm@hotmail.com"
+ }
+]
